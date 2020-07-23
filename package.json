@@ -1,0 +1,17 @@
+{
+  "name": "doc-mon-app",
+  "version": "1.0.0",
+  "description": "A simple desktop app that monitor's your personal important documents expiry date/time.",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^9.1.1"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sameer",
+  "license": "MIT"
+}
