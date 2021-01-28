@@ -4,7 +4,7 @@
   "description": "A simple desktop app that monitor's your personal important documents expiry date/time.",
   "main": "main.js",
   "dependencies": {
-    "electron": "^9.1.1"
+    "electron": "^9.4.0"
   },
   "devDependencies": {
 
